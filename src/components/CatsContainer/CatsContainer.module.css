@@ -1,0 +1,26 @@
+.catsBoxWrapper {
+	width: 90%;
+	height: 50%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+
+.navLink {
+	margin: 10px;
+	width: 100px;
+	height: 20px;
+	color: rgb(230, 10, 10);
+	padding: 20px 40px;
+	background: white;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	border-radius: 10px;
+	text-decoration: none;
+	cursor: pointer;
+}

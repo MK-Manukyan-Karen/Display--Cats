@@ -1,0 +1,21 @@
+.wrapper {
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navLink {
+	color: green;
+	padding: 20px 40px;
+	background: white;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	border-radius: 10px;
+	text-decoration: none;
+	cursor: pointer;
+}
